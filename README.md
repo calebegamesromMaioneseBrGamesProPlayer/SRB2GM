@@ -1,3 +1,5 @@
+# AVISO AINDA ESTÁ EM FASE DE TESTE
+
 # Sonic Robo Blast 2: God Mode
 
 Esta versão foi reorganizada para ficar mais limpa e com um foco maior em um God Mode jogável.
